@@ -17,3 +17,4 @@ int main(void)
 
 	return (0);
 }
+gcc 3-print_alphabets.c.c -o 3-print_alphabets.c
