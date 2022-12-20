@@ -1,13 +1,15 @@
 #include <stdio.h>
 #include "main.h"
+
 /**
  * print_rev - This function prints a string in reverse order
  * @s: pointer parameter
  */
 
-void print_rev(char *)
+void print_rev(char *s)
 {
 	int i = 0;
+
 	int j;
 
 	while (s[i] != '\0')
