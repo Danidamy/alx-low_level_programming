@@ -19,7 +19,7 @@ char *string_toupper(char *word)
 		{
 			word[length] = word[length] - 32;
 		}
-		lenghth++
+		length++;
 	}
 
 	return (word);
