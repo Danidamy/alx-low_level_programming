@@ -21,7 +21,7 @@ int _strlen(char *s)
 }
 
 /**
- * _strcpy - copy arrays
+ * _strdup - copy arrays
  * @str: array of elements
  * Return: pointer
  */
